@@ -9,7 +9,10 @@ namespace ChatBot
     public partial class Form1 : Form
     {
         //makes the main TwitchClient object
-        TwitchClient client = new TwitchClient(new TwitchLib.Models.Client.ConnectionCredentials(Properties.Settings.Default.username, Properties.Settings.Default.oauth));
+        TwitchClient client = new TwitchClient(new TwitchLib.Models.Client.ConnectionCredentials
+            //creats input dialogs when you open the program for your username an oauth token
+            (Microsoft.VisualBasic.Interaction.InputBox("Enter your username:", "Username", "", -1, -1),
+            Microsoft.VisualBasic.Interaction.InputBox("Enter your Oauth Token:", "Oauth token", "", -1, -1)));
 
         public Form1()
         {
