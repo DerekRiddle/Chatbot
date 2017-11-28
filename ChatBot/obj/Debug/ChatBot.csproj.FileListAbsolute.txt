@@ -12,3 +12,6 @@ C:\Users\dirka\Documents\Visual Studio 2015\Projects\ChatBot\ChatBot\obj\Debug\C
 C:\Users\dirka\Documents\Visual Studio 2015\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.Cache
 C:\Users\dirka\Documents\Visual Studio 2015\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.exe
 C:\Users\dirka\Documents\Visual Studio 2015\Projects\ChatBot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\ChatBot.exe.config
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.exe
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.pdb
