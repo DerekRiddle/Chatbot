@@ -111,5 +111,17 @@ namespace ChatBot
             richChat.Text += "Disconnecting...\n";
             Close();
         }
+        private void connectToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            client = new TwitchClient(new TwitchLib.Models.Client.ConnectionCredentials
+            //creats input dialogs when you open the program for your username an oauth token
+            (Microsoft.VisualBasic.Interaction.InputBox("Enter your username:", "Username", "", -1, -1),
+            Microsoft.VisualBasic.Interaction.InputBox("Enter your Oauth Token:", "Oauth token", "", -1, -1)));
+        }
+
+        private void disconnectToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            client = null;
+        }
     }
 }

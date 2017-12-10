@@ -15,3 +15,14 @@ C:\Users\dirka\Documents\Visual Studio 2015\Projects\ChatBot\ChatBot\obj\Debug\C
 C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\ChatBot.exe.config
 C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.exe
 C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.pdb
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\ChatBot.exe
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\ChatBot.pdb
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\TwitchLib.dll
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\WebSocket4Net.dll
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\bin\Debug\TwitchLib.xml
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.csprojResolveAssemblyReference.cache
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.Form1.resources
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.Properties.Resources.resources
+C:\Users\dirka\Documents\GitHub\Chatbot\ChatBot\obj\Debug\ChatBot.csproj.GenerateResource.Cache
